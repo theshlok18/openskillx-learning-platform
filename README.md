@@ -20,15 +20,6 @@ This learning platform is currently being developed and is **not yet ready for p
 
 ---
 
-## 👨‍💻 **About the Developer**
-
-**Created by: Shlok**
-- 🎯 Full-Stack Developer
-- 🚀 Passionate about Educational Technology
-- 💻 Building the future of online learning
-
----
-
 ## 🎯 **Project Vision**
 
 OpenSkillX aims to be a comprehensive learning platform that combines:
@@ -174,7 +165,7 @@ If you're interested in contributing to this educational platform, I'd love to h
 - 🎨 **UI/UX Designers** (Modern, educational interfaces)
 - 🧪 **QA Testers** (Quality assurance and testing)
 
-**📧 Contact**: shlok.developer@gmail.com
+**📧 Contact**: theshlok18@gmail.com
 
 *Please include your skills, experience, and why you're interested in educational technology!*
 
@@ -184,7 +175,7 @@ If you're interested in contributing to this educational platform, I'd love to h
 
 **Shlok** - Project Creator & Lead Developer
 
-- 📧 **Email**: shlok.developer@gmail.com *(For collaboration inquiries)*
+- 📧 **Email**: theshlok18@gmail.com *(For collaboration inquiries)*
 - 💼 **LinkedIn**: Will be shared when project goes live
 - 🐙 **GitHub**: Repository will be public after completion
 
