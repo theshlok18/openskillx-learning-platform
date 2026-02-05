@@ -1,4 +1,4 @@
-# 🚧 OpenSkillX Learning Platform - Under Construction
+# 🚧 OpenSkillX Learning Platform - Under Construction.
 
 <div align="center">
 
